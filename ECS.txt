@@ -87,19 +87,6 @@ Stopping instance
 ec2-stop-instances i-48d7b9cb -O access_key  -W secret_key
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 LAMBDA
 
 

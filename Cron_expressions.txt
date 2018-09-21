@@ -1,0 +1,13 @@
+
+First_Rule(9am)
+30 03 ? * MON-FRI *
+
+Second_Rule(6pm)
+30 12 ? * MON-FRI *
+
+Third_Rule(11am)
+30 05 ? * MON-FRI *
+
+Fourth_Rule(8pm)
+30 14 ? * MON-FRI *
+

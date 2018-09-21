@@ -1,5 +1,5 @@
 # AWS_Orchestration
-Aviate  Cloud Internship (Jan 2-16 - March 2016)<br>
+Aviate  Cloud Internship (Jan 2016 - March 2016)<br>
 The requirement was to start and stop docker containers for a tomcat based webapp at specific times.<br>
 AWS services used:<br>
 CloudWatch is used to call lambda function at specific times using CRON expressions. <br>
